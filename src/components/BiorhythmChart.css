@@ -1,0 +1,13 @@
+.biorhythm-card p {
+  line-height: normal;
+}
+.biorhythm-card .physical {
+  stroke: var(--app-physical-color);
+}
+.biorhythm-card .emotional path {
+  stroke: var(--app-emotional-color);
+}
+
+.biorhythm-card .intellectual {
+  stroke: var(--app-intellectual-color);
+}
